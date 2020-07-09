@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently pursuing my Bachelors in Information Technology from GGSIP University, New Delhi. I'm really interested in Deep Learning & Python development. 
+I'm currently pursuing my Bachelors in Information Technology from GGSIP University, New Delhi. I'm interested in Deep Learning & Python development. 
 
 I'm open on collaborating on any Deep Learning / Machine Learning based projects. 
 
