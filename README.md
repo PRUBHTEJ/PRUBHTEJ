@@ -4,10 +4,10 @@ I'm currently pursuing my Bachelors in Information Technology from GGSIP Univers
 
 I'm open on collaborating on any Deep Learning / Machine Learning based projects. 
 
-
 Pronouns: He/Him/His
 
-Fun fact: Psst..., you can also reach out to me for solving you doubts on HTML, Css, Java, MATLAB, C++, etc.
+💬 Ask me about: Python, Java(Basics), C++, MATLAB, HTML, CSS, etc..
+
 
 <!--
 **PRUBHTEJ/PRUBHTEJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
