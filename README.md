@@ -6,7 +6,7 @@ I'm open on collaborating on any Deep Learning / Machine Learning based projects
 
 Pronouns: He/Him/His
 
-💬 Ask me about: Python, Java(Basics), C++, MATLAB, HTML, CSS, etc..
+💬 Ask me about: Python, Java(Basics), C++, MATLAB, HTML, CSS, Markdown, Open Source, Kotlin(Basics)
 
 
 <!--
