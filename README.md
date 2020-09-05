@@ -14,6 +14,11 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
   <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://giphy.com/gifs/Roborace-future-futuristic-artificial-intelligence-VfL5ZU3Wh2iZgYgGrJ"/>
+ </p>
+
+
 - 🌌 I’m currently working at [NRNB](https://nrnb.org/) as a Technical Writer under Google's Season Of Docs 2020
 - 🔭 I’m currently learning __Artifical Intelligence__
 - 👯 I’m looking to collaborate on any projects related to (but not limited to) AI, Computer Vision & applications of Deep Learning
