@@ -38,7 +38,7 @@ We have sped and warped through my universe. Want to unveil your own universe? C
 </details>
 
 <p align="center">
-<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
+<img align="middle" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freadwrite.com%2F2020%2F08%2F11%2Fguide-to-understanding-artificial-intelligence%2F&psig=AOvVaw1X7bu4lW1cG3JdkDzJzOaj&ust=1599373279559000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC6sP6v0esCFQAAAAAdAAAAABAD" width="250" height="250" />
 </p>
 
 ### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
