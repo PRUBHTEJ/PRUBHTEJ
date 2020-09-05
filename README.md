@@ -37,4 +37,4 @@ We have sped and warped through my universe. Want to unveil your own universe? C
 <img align="middle" src="https://images.readwrite.com/wp-content/uploads/2020/07/Artificial-Intelligence.jpeg" />
 </p>
 
-### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
+### `It'll all be OK at the end, & if it's not OK it's not the END`- _John Lenon_
