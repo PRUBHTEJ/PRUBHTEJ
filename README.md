@@ -1,6 +1,6 @@
 # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am a 19 year old Junior Year Student from India who loves Python & AI. I'm currently working at NRNB as a Technical Writer under GSoD'20. I am passionate about doing research in the feild of Artificial Intelligence.
+I am a 19 year old Junior Year Student from India who loves Python & AI. I'm currently working at NRNB as a Technical Writer under GSoD'20. I am passionate about doing research in the field of Artificial Intelligence.
 
 I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the handle closest to you firmly because we are gonna go warp speed to know my universe.
   
