@@ -25,7 +25,7 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
 - 🎼 Hobbies: Cooking & Contributing to Open Source
 ![PRUBHTEJ's github stats](https://github-readme-stats.vercel.app/api?username=PRUBHTEJ&show_icons=true&hide_border=true)
 
-We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/prubhtej-singh">
+We have sped and warped through my universe. Wanna unveil yours? Contact me at: <a href="https://www.linkedin.com/in/prubhtej-singh">
   <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 <a href="https://www.twitter.com/prubhtej">
