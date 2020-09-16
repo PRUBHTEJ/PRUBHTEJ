@@ -21,7 +21,7 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
 - 🔭 I’m currently learning __Artifical Intelligence__.
 - 👯 I’m looking to collaborate on any projects related to (but not limited to) AI, Computer Vision & applications of Deep Learning.
 - ✨ Pronouns: He/him
-- 🛸 Fun fact: I'm a MSFT learn student ambassador and IBM ZAmbassador 
+- 🛸 Fun fact: I'm a MSFT learn student ambassador and an IBM ZAmbassador 
 - 🎼 Hobbies: Cooking & Contributing to Open Source
 ![PRUBHTEJ's github stats](https://github-readme-stats.vercel.app/api?username=PRUBHTEJ&show_icons=true&hide_border=true)
 
