@@ -1,7 +1,7 @@
 # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
 <a href="https://dev.to/prubhtej">
-  <i class="fab fa-dev" title="prubhtej's DEV Profile"></i>
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prubhtej Singh's DEV Profile" height="30" width="30">
 </a>
 
 
