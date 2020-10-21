@@ -1,6 +1,8 @@
 # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-[![Prubhtej Singh's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/prubhtej)
+<a href="https://dev.to/prubhtej">
+  <i class="fab fa-dev" title="prubhtej's DEV Profile"></i>
+</a>
 
 
 I am a 19 year old Junior Year Student from India who loves Python & AI. I'm currently working at NRNB as a Technical Writer under GSoD'20. I am passionate about doing research in the field of Artificial Intelligence.
