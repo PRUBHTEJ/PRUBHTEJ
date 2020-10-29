@@ -1,4 +1,4 @@
-# Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
+# Welcome aboard my code station 🚀
 
 <a href="https://dev.to/prubhtej">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prubhtej Singh's DEV Profile" height="30" width="30">
@@ -12,20 +12,13 @@ I am a 19 year old Junior Year Student from India who loves Python & AI. I'm cur
 
 
 
-
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
-</p>
-
-
-
-
 - 🌌 I’m currently working at [NRNB](https://nrnb.org/) as a Technical Writer under Google's Season Of Docs 2020.
 - 🔭 I’m currently learning __Artifical Intelligence__.
 - 👯 I’m looking to collaborate on any projects related to (but not limited to) AI, Computer Vision & applications of Deep Learning.
 - ✨ Pronouns: He/him
 - 🛸 Fun fact: I'm a MSFT learn student ambassador and an IBM ZAmbassador 
 - 🎼 Hobbies: Cooking & Contributing to Open Source
+
 ![PRUBHTEJ's github stats](https://github-readme-stats.vercel.app/api?username=PRUBHTEJ&show_icons=true&hide_border=true)
 
 We have sped and warped through my universe. Wanna unveil yours? Contact me at: <a href="https://www.linkedin.com/in/prubhtej-singh">
