@@ -4,7 +4,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prubhtej Singh's DEV Profile" height="30" width="30">
 </a>
 
-I am a 19 year old Junior Year Student from India who loves Python & AI. I'm currently working at NRNB as a Technical Writer under GSoD'20. I am passionate about doing research in the field of Artificial Intelligence.
+I am a 20 year old Junior Year Student from India who loves Python & AI. I'm currently working at NRNB as a Technical Writer under GSoD'20. I am passionate about doing research in the field of Artificial Intelligence.
 
   
 <details>
