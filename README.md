@@ -4,7 +4,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prubhtej Singh's DEV Profile" height="30" width="30">
 </a>
 
-I am a 20 year old Junior Year Student from India who loves Python & AI. I'm currently working at NRNB as a Technical Writer under GSoD'20. I am passionate about doing research in the field of Artificial Intelligence.
+I am a 20 year old Junior Year Student from India who loves Python & AI. I interned at NRNB as a Technical Writer under Google  Season Of Docs 2020. I am passionate about doing research in the field of Artificial Intelligence.
 
   
 <details>
@@ -12,7 +12,7 @@ I am a 20 year old Junior Year Student from India who loves Python & AI. I'm cur
 
 
 
-- 🌌 I worked at [NRNB](https://nrnb.org/) as a Technical Writer under Google's Season Of Docs 2020.
+- 🌌 I worked at [NRNB](https://nrnb.org/) as a Technical Writer under Google Season Of Docs 2020.
 - 🔭 I’m currently learning __Artifical Intelligence__.
 - 👯 I’m looking to collaborate on any projects related to (but not limited to) AI, Computer Vision & applications of Deep Learning.
 - ✨ Pronouns: He/him
