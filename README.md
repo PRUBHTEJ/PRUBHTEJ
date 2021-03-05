@@ -4,6 +4,9 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prubhtej Singh's DEV Profile" height="30" width="30">
 </a>
 
+![](https://komarev.com/ghpvc/?username=PRUBHTEJ&color=green)
+
+
 I am a 20 year old Junior Year Student from India who loves Python & AI. I interned at NRNB as a Technical Writer under Google  Season Of Docs 2020. I am passionate about doing research in the field of Artificial Intelligence.
 
   
