@@ -15,7 +15,7 @@ I am a 20 year old Junior Year Student from India who loves Python & AI. I inter
 
 
 
-- 🌌 I worked at [NRNB](https://nrnb.org/) as a Technical Writer under Google Season Of Docs 2020.
+- 🌌 I'll be working under with SBOL Industrial Consortium under the aegis of Bio-Design Automation Consortium and I've previously worked at [NRNB](https://nrnb.org/) as a Technical Writer under Google Season Of Docs 2020.
 - 🔭 I’m currently learning __Artifical Intelligence__.
 - 👯 I’m looking to collaborate on any projects related to (but not limited to) AI, Computer Vision & applications of Deep Learning.
 - ✨ Pronouns: He/him
